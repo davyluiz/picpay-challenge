@@ -105,7 +105,7 @@ If you have not acceptably achieved what we are proposing above, we will not pro
 
 -   [Integration testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 
--   [Unit testing] (https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+-   [Unit testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 
 -   Use of Design Patterns
 
