@@ -95,7 +95,7 @@ If you have not acceptably achieved what we are proposing above, we will not pro
 
 -   User and retailer registration flow
 
--   Frontend (we will only evaluate the (Restful API)[https://www.devmedia.com.br/rest-tutorial/28912])
+-   Frontend (we will only evaluate the [Restful API](https://www.devmedia.com.br/rest-tutorial/28912))
 
 -   Authentication
 
